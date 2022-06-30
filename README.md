@@ -1,4 +1,4 @@
-# <p align="center"> Social Media API </p>
+# <p align="center"> Social Network API </p>
 <br> 
  <p align="center">
   <img src="assets/screenshot.gif"/>
@@ -29,3 +29,6 @@ SO THAT my website can handle large amounts of unstructured data
  npm start
 
  ```
+
+## Functionality
+https://watch.screencastify.com/v/TzStarSaPMhDJQABM9d0
