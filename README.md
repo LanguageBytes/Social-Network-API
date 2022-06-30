@@ -1,4 +1,4 @@
-# <p align="center"> Technology Central MVC </p>
+# <p align="center"> Social Media API </p>
 <br> 
  <p align="center">
   <img src="assets/screenshot.gif"/>
