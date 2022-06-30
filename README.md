@@ -1,7 +1,7 @@
 # <p align="center"> Social Network API </p>
 <br> 
  <p align="center">
-  <img src="assets/screenshot.gif"/>
+  <img src="screenshot.gif"/>
 </p>
 
 ## Description
