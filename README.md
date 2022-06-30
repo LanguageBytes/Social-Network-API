@@ -6,7 +6,7 @@
 
 ## Description
 
-A basic backend API for a Social Network Website. The application uses GET, POST, PUT and DELETE requests in order for a user to create an account, add friends, share their thoughts and reactions.
+A basic backend API for a Social Network Website. The application uses GET, POST, PUT and DELETE requests in order for a user to create an account, add friends, share their thoughts and reactions. 
 
 ## User Story
 
@@ -31,4 +31,5 @@ SO THAT my website can handle large amounts of unstructured data
  ```
 
 ## Functionality
+
 https://watch.screencastify.com/v/TzStarSaPMhDJQABM9d0
